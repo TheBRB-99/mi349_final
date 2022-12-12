@@ -34,5 +34,16 @@ float:left;
 }
 
 .Copyright{
-background: color #1e1e1e;
+    
+}
+
+.dropdown{
+    background-color: #59ABD9;
+    color:#1e1e1e;
+    padding: auto;
+}
+
+.info_list{
+    padding: 20px;
+    bottom: 0px;
 }
